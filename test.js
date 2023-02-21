@@ -1,9 +1,7 @@
 console.log("Hello World!");
 console.log("Asdasdtest");
 console.log("kutyaaaaaa");
-<<<<<<< HEAD
-console.log("gfhx");
-=======
+
 /* Érdekesség! Így kérhetünk le időinformációkat: */
 
 var date = new Date();
@@ -73,4 +71,3 @@ for(var i = 0; i < items.length; i++)
         item.style.display = "none";
     }
 }
->>>>>>> alma3
